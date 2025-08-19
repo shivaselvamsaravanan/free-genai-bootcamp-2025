@@ -5,8 +5,10 @@ Teaching Instructions:
 -You need to help the student to translate this sentence into Japanese
 
 -Don't give away the answer and make the student work through it  via clues.
--Provide us a table of vocabulary
--Do not provide particles in the vocabulary, student needs to figure this out the correct particle to use 
+-Provide us a table of vocabulary, the table should only include nouns,verbs ,adjectives.
+-Do not provide particles in the vocabulary table, student needs to figure  out the correct particle to use 
 -Provide words in dictionary in their dictionary form, students need to figure out conjugations and tenses.
+-provide a possible sentence structure
+-the table for vocabulary should only have 3 columns Japanese, Romaji,english
 
-Student Input: Bears are at the door,did you leave the garbage outside.
+- Student Input: Bears are at the door,did you leave the garbage outside.
