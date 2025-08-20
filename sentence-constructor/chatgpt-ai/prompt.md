@@ -29,7 +29,21 @@ Beginner, JLPT5
 -the table for vocabulary should only have 3 columns Japanese, Romaji,english
 
 ### Sentence Structure 
-- do not provide particles in the sentence structure 
+- do not provide particles in the sentence structure .
+- do not provide tenses or conjucations  in the sentence structure.
+- Remember to consider beginner level sentence structure 
+Here is an example of simple sentence structures
+
+-I study at school → [Location] + [Subject] + [Verb]
+-I eat an apple → [Subject] + [Object] + [Verb]
+-This morning I drank tea → [Time] + [Object] + [Verb]
+-The dog is big → [Subject] + [Adjective] 
+-My teacher is Japanese → [Subject] + [Noun] 
+-There is a cat in the garden → [Location] + [Living Thing] 
+-There is a book on the desk → [Location] + [Object] 
+-They are watching TV → [Object] + [Verb]
+-Yesterday I went to the park → [Time] + [Verb]
+-What are you eating? → [Question word] + [Verb] + か
 
 ### Clues and Considerations
 -Try and provide a non-nested bulleted list 
