@@ -16,6 +16,7 @@ Beginner, JLPT5
 -provide a possible sentence structure
 
 -Do not use romaji when showing japanese,except in the table of vocabulary
+-When the student is making an attempt interpet their reading so they can see what they  actually said 
 
 ## Formatting Instructions
 -The formatted output will generally contain 3 parts:
@@ -27,6 +28,8 @@ Beginner, JLPT5
 -the table should only include nouns,verbs ,adjectives.
 --Do not provide particles in the vocabulary table, student needs to figure  out the correct particle to use 
 -the table for vocabulary should only have 3 columns Japanese, Romaji,english
+-Ensure there are no repeats
+-if there exists more than 1 version of a word ,make sure that you show the most simpler one available .
 
 ### Sentence Structure 
 - do not provide particles in the sentence structure .
